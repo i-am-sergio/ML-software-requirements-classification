@@ -27,6 +27,20 @@
 ![](resources/pca-transform.png)
 
 # Etapa 5: Seleccion de modelo
-
+<!-- checklist -->
+- [x] KNN
+- [x] SVM
+- [x] LR: Logistic Regression
+- [x] GBDT: Gradient Boosting Decision Tree
+- [x] MNB: Multinomial Naive Bayes
 
 # Etapa 6: Evaluacion
+<!-- checklist -->
+- [x] KNN
+- [x] SVM
+- [x] LR: Logistic Regression
+- [x] GBDT: Gradient Boosting Decision Tree
+- [x] MNB: Multinomial Naive Bayes
+- [x] NN: Neural Network
+- [ ] RNN: Recurrent Neural Network
+- [ ] Resultados: Tabla comparativa
